@@ -50,7 +50,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=am9zcHJvamVjdHMvdGdtb3ZpZWJvdCBtYXN0ZXI">
+<a href="https://github.com/Mufeed2004/Mufeed?start=am9zcHJvamVjdHMvdGdtb3ZpZWJvdCBtYXN0ZXI">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 <a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
@@ -122,7 +122,7 @@ python3 bot.py
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/JosProjects)
 
 ## Credits 
-* [![Zaute-Km](https://img.shields.io/static/v1?label=Dingdi-Dev&message=devs&color=critical)](https://telegram.dog/zautebot)
+* [![Zaute-Km](https://img.shields.io/static/v1?label=Dingdi-Dev&message=devs&color=critical)](https://t.me/RX_Support_TM)
 
 
 ## Thanks to 
